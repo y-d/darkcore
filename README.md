@@ -1,4 +1,5 @@
 Simply just a bad gdi virus (drops out some effects and byte beats)
+
 but this also has an mbr payload which will just flash a red and black screen
 
 if you wanna build it:
