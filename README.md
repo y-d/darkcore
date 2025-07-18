@@ -11,3 +11,8 @@ Build Unsafety:
 Build Safety:
 
     g++ -g main-safety.cpp -lwinmm -lgdi32 -mwindows -static
+
+
+im not sure if u can recover from this
+
+but there has to be a way
